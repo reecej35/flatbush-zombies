@@ -1,0 +1,23 @@
+.border {
+  border: 4px solid blue;
+  padding: 6px;
+  margin: 12px;
+}
+
+.color {
+  color: blue;
+}
+
+.float {
+  float: right;
+  padding: 40px;
+}
+img {
+  border: 4px solid blue;
+  float: right;
+  width: 900px;
+  height: 175px
+}
+body {
+  background-color: #d0e4fe;
+}
